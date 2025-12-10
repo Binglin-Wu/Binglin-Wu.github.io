@@ -17,11 +17,11 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hi! Welcome to my homepage. I’m Binglin Wu (吴秉霖), a Master's student at Dalian University of Technology. My research focuses on auto-bidding algorithms for online adverstising and the application of LLM, and I am supervised by Prof. Xianneng Li. 
+Hi! Welcome to my homepage. I’m Binglin Wu (吴秉霖), a Master's student at Dalian University of Technology. My research focuses on auto-bidding algorithms for online adverstising and the application of LLM, and I am supervised by Prof. Xianneng Li. I previously worked as a research intern in the advertising department of Alibaba International Digital Commerce Group, focusing primarily on generative auto-bidding algorithms. I have won awards in several competitions, including the WWW competition and CCL-Eval, etc.
 
 # 🔥 News
 - *2025.07*: &nbsp;🎉🎉 Our paper was accepted by CCL 25 Compitition Track, with the co-first author Binglin Wu and Jiaxiu Zou.
-- *2025.05*: &nbsp;🎉🎉 Our BMI@DLUT win the third prize at CCL-Eval Task 10: Fine-grained Chinese Hate Recognition Evaluation, with Jiaxiu Zou, and supervised by Prof. Xianneng Li [[link]](https://tianchi.aliyun.com/competition/entrance/532298)
+- *2025.05*: &nbsp;🎉🎉 Our BMI@DLUT win the third prize at CCL-Eval Task 10: Fine-grained Chinese Hate Recognition Evaluation, with Jiaxiu Zou, and supervised by Prof. Xianneng Li [[Link]](https://tianchi.aliyun.com/competition/entrance/532298)
 - *2025.03*: &nbsp;🎉🎉 Our paper was accepted by WWW 25 Compitition Track, with the co-first author Zhipeng Li, Binglin Wu and Yingyi Zhang.
 - *2025.01*: &nbsp;🎉🎉 Our scale@DLUT win the bronze medal at WWW compitition: Multimodal Dialogue System Intent Recognition Challenge, with Zhipeng Li and Yingyi Zhang, and supervised by Prof. Xianneng Li [[Link]](https://tianchi.aliyun.com/competition/entrance/532277)
 
