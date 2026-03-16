@@ -29,6 +29,13 @@ Hi! Welcome to my homepage. I’m Binglin Wu (吴秉霖), a Master's student at 
 # 📝 Publications 
 
 - [Li, Zhipeng, Binglin Wu, Yingyi Zhang, Xianneng Li, Kai Li, and Weizhi Chen. "CuSMer: Multimodal Intent Recognition in Customer Service via Data Augment and LLM Merge." In Companion Proceedings of the ACM on Web Conference 2025, pp. 3058-3062. 2025.](https://dl.acm.org/doi/abs/10.1145/3701716.3718373) (WWW 2025, CCF-A List)
+- [Wu, B., Zou, J., & Li, X. (2025). System Report for CCL25-Eval Task 10: Prompt-Driven Large Language Model Merge for Fine-Grained Chinese Hate Speech Detection. arXiv preprint arXiv:2512.09563.](https://arxiv.org/abs/2512.09563) (CCL 2025, China's most important NLP conference)
+
+
+# 📝 Works on Arxiv
+- [Wu, B., Zhang, Y., Li, X., Deng, R., Yue, C., Zhang, W., & Zeng, X. (2026). Constraint-Aware Generative Auto-bidding via Pareto-Prioritized Regret Optimization. arXiv preprint arXiv:2602.08261.](https://arxiv.org/abs/2602.08261)
+- [Wu, B., Zhang, Y., & Li, X. (2026). JUSTICE: Judicial Unified Synthesis Through Intermediate Conclusion Emulation for Automated Judgment Document Generation. arXiv preprint arXiv:2602.08305.](https://arxiv.org/abs/2602.08305)
+- [Wu, B., & Li, X. (2026). Knowledge Augmented Entity and Relation Extraction for Legal Documents with Hypergraph Neural Network. arXiv preprint arXiv:2602.08289.](https://arxiv.org/abs/2602.08289)
 
 
 # 🎖 Honors and Awards

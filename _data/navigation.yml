@@ -8,6 +8,9 @@ main:
 
   - title: "Publications"
     url: "/#-publications"
+  
+  - title: "Works on Arxiv"
+    url: "/#-works-on-arxiv"
 
   - title: "Honors and Awards"
     url: "/#-honors-and-awards"
