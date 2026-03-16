@@ -2,6 +2,7 @@ name: Get Citation Data
 
 on: 
  workflow_dispatch:  # 添加手动触发功能
+ push:
  page_build: 
  schedule:
   - cron:  '0 8 * * *'
