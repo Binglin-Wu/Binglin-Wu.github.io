@@ -9,7 +9,7 @@
 title                    : "Binglin Wu (吴秉霖)"
 description              : "Focusing on auto-bidding algorithms and the application of LLM."
 repository               : "Binglin-Wu/Binglin-Wu.github.io"
-google_scholar_stats_use_cdn : true
+google_scholar_stats_use_cdn : True
 
 # google analytics
 google_analytics_id      :  # get google_analytics_id from https://analytics.google.com/analytics/
