@@ -27,9 +27,12 @@ Hi! Welcome to my homepage. I’m Binglin Wu (吴秉霖), a Master's student at 
 - *2025.01*: &nbsp;🏅 Our scale@DLUT win the bronze medal at WWW compitition: Multimodal Dialogue System Intent Recognition Challenge, with Zhipeng Li and Yingyi Zhang, and supervised by Prof. Xianneng Li [[Link]](https://tianchi.aliyun.com/competition/entrance/532277)
 
 # 📝 Publications 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">WWW 2025</div><img src='images/www.png' alt="CuSMer" width="100%"></div></div>
+<<div class='paper-box'><div class='paper-box-image'><div><div class="badge">WWW 2025</div><img src='images/www.png' alt="CuSMer" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-- [Li, Zhipeng, Binglin Wu, Yingyi Zhang, Xianneng Li, Kai Li, and Weizhi Chen. "CuSMer: Multimodal Intent Recognition in Customer Service via Data Augment and LLM Merge." In Companion Proceedings of the ACM on Web Conference 2025, pp. 3058-3062. 2025.](https://dl.acm.org/doi/abs/10.1145/3701716.3718373) (WWW 2025, CCF-A List)
+[Li, Zhipeng, Binglin Wu, Yingyi Zhang, Xianneng Li, Kai Li, and Weizhi Chen. "CuSMer: Multimodal Intent Recognition in Customer Service via Data Augment and LLM Merge." In Companion Proceedings of the ACM on Web Conference 2025, pp. 3058-3062. 2025.](https://dl.acm.org/doi/abs/10.1145/3701716.3718373) (WWW 2025, CCF-A List)
+</div>
+</div>
+
 - [Wu, Binglin, Jiaxiu Zou, and Xianneng Li. "System Report for CCL25-Eval Task 10: Prompt-Driven Large Language Model Merge for Fine-Grained Chinese Hate Speech Detection." arXiv preprint arXiv:2512.09563 (2025).](https://arxiv.org/abs/2512.09563) (CCL 2025, China's most important NLP conference)
 
 
