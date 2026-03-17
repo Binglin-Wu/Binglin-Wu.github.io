@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hi! Welcome to my homepage. I’m Binglin Wu (吴秉霖), a Master's student at Dalian University of Technology. My research focuses on auto-bidding algorithms for online adverstising and the application of LLM, and I am supervised by Prof. Xianneng Li. I previously worked as a research intern in the advertising department of Alibaba International Digital Commerce Group, focusing primarily on generative auto-bidding algorithms. I have won awards in several competitions, including the WWW competition and CCL-Eval, etc.
+Hi! Welcome to my homepage. I’m Binglin Wu (吴秉霖), a Master's student at Dalian University of Technology. My research focuses on auto-bidding algorithms for online adverstising and the application of LLM, and I am supervised by Prof. Xianneng Li. I previously worked as a research intern in the advertising department of Alibaba International Digital Commerce Group, focusing primarily on generative auto-bidding algorithms. I have published 2 papers <a href='https://scholar.google.com/citations?user=uOkhiSwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a> at the top international AI conferences such as WWW. I have won awards in several competitions, including the WWW competition and CCL-Eval, etc.
 
 # 🔥 News
 - *2025.09*：&nbsp;💼 I started as a research intern at Alibaba, focusing on generative auto-bidding algorithms.
