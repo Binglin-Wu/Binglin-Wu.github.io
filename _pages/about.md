@@ -30,13 +30,23 @@ Hi! Welcome to my homepage. I’m Binglin Wu (吴秉霖), a Master's student at 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">WWW 2025</div><img src='images/www.png' alt="CuSMer" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-[Li, Zhipeng, Binglin Wu, Yingyi Zhang, Xianneng Li, Kai Li, and Weizhi Chen. "CuSMer: Multimodal Intent Recognition in Customer Service via Data Augment and LLM Merge." In Companion Proceedings of the ACM on Web Conference 2025, pp. 3058-3062. 2025.](https://dl.acm.org/doi/abs/10.1145/3701716.3718373) (WWW 2025, CCF-A List)
+
+<span class="paper-title">[CuSMer: Multimodal Intent Recognition in Customer Service via Data Augment and LLM Merge](https://dl.acm.org/doi/abs/10.1145/3701716.3718373)</span>
+
+Zhipeng Li<sup>✦</sup>, **Binglin Wu**<sup>✦</sup>, Yingyi Zhang<sup>✦</sup>, Xianneng Li, Kai Li, and Weizhi Chen
+
+*The ACM Web Conference 2025 **(WWW'25)**, CCF-A*
 </div>
 </div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CCL 2025</div><img src='images/ccl.png' alt="CCL Hate Speech" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-[Wu, Binglin, Jiaxiu Zou, and Xianneng Li. "System Report for CCL25-Eval Task 10: Prompt-Driven Large Language Model Merge for Fine-Grained Chinese Hate Speech Detection." arXiv preprint arXiv:2512.09563 (2025).](https://arxiv.org/abs/2512.09563) (CCL 2025, China's most important NLP conference)
+
+<span class="paper-title">[Prompt-Driven Large Language Model Merge for Fine-Grained Chinese Hate Speech Detection](https://arxiv.org/abs/2512.09563)</span>
+
+**Binglin Wu**<sup>✦</sup>, Jiaxiu Zou<sup>✦</sup>, and Xianneng Li
+
+*The 24th China National Conference on Computational Linguistics **(CCL'25)***
 </div>
 </div>
 
@@ -44,19 +54,34 @@ Hi! Welcome to my homepage. I’m Binglin Wu (吴秉霖), a Master's student at 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv.org</div><img src='images/pro-bid.png' alt="Auto-bidding" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-[Wu, Binglin, Yingyi Zhang, Xianneng Li, Ruyue Deng, Chuan Yue, Weiru Zhang, and Xiaoyi Zeng. "Constraint-Aware Generative Auto-bidding via Pareto-Prioritized Regret Optimization." arXiv preprint arXiv:2602.08261 (2026).](https://arxiv.org/abs/2602.08261)
+
+<span class="paper-title">[Constraint-Aware Generative Auto-bidding via Pareto-Prioritized Regret Optimization](https://arxiv.org/abs/2602.08261)</span>
+
+**Binglin Wu**, Yingyi Zhang, Xianneng Li, Ruyue Deng, Chuan Yue, Weiru Zhang, and Xiaoyi Zeng
+
+*arXiv preprint arXiv:2602.08261, 2026*
 </div>
 </div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv.org</div><img src='images/justice.png' alt="JUSTICE" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-[Wu, Binglin, Yingyi Zhang, and Xiannneg Li. "JUSTICE: Judicial Unified Synthesis Through Intermediate Conclusion Emulation for Automated Judgment Document Generation." arXiv preprint arXiv:2602.08305 (2026).](https://arxiv.org/abs/2602.08305)
+
+<span class="paper-title">[JUSTICE: Judicial Unified Synthesis Through Intermediate Conclusion Emulation for Automated Judgment Document Generation](https://arxiv.org/abs/2602.08305)</span>
+
+**Binglin Wu**, Yingyi Zhang, and Xianneng Li
+
+*arXiv preprint arXiv:2602.08305, 2026*
 </div>
 </div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv.org</div><img src='images/kahre.png' alt="Hypergraph NER" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-[Wu, Binglin, and Xianneng Li. "Knowledge Augmented Entity and Relation Extraction for Legal Documents with Hypergraph Neural Network." arXiv preprint arXiv:2602.08289 (2026).](https://arxiv.org/abs/2602.08289)
+
+<span class="paper-title">[Knowledge Augmented Entity and Relation Extraction for Legal Documents with Hypergraph Neural Network](https://arxiv.org/abs/2602.08289)</span>
+
+**Binglin Wu** and Xianneng Li
+
+*arXiv preprint arXiv:2602.08289, 2026*
 </div>
 </div>
 

@@ -55,12 +55,15 @@
         display: flex;
         width: 100%;
         order: 2;
+        overflow: hidden;
+        height: 150px;
+        width: 125px;
+        border-radius: 10px;
         img {
-            max-width: 300px;
             box-shadow: 3px 3px 6px #888;
-            object-fit: cover;
-            height: 150px;
-            width: 100%;
+            object-fit: cover !important;
+            height: 150px !important;
+            width: 125px !important;
             border-radius: 10px;
         }
     }
@@ -68,24 +71,38 @@
     .paper-box-text{
         max-width: 100%;
         order: 1;
+
+        .paper-title {
+            color: #1772d0;
+            font-weight: bold;
+            a {
+                color: #1772d0;
+                &:hover {
+                    color: #f09228;
+                }
+            }
+        }
     }
     
     @include breakpoint($medium) {
         .paper-box-image{
             justify-content: left;
-            min-width: 150px;
-            max-width: 30%;
+            min-width: 125px;
+            max-width: 20%;
             order: 1;
+            height: 150px;
+            width: 125px;
             img {
-                max-width: 100%;
-                height: 150px;
+                width: 125px !important;
+                height: 150px !important;
+                object-fit: cover !important;
             }
         }
         
         .paper-box-text{
             justify-content: left;
             padding-left: 2em;
-            max-width: 70%;
+            max-width: 80%;
             order: 2;
         }
 
