@@ -56,14 +56,14 @@
         width: 100%;
         order: 2;
         overflow: hidden;
-        height: 150px;
-        width: 125px;
+        height: 125px;
+        width: 150px;
         border-radius: 10px;
         img {
             box-shadow: 3px 3px 6px #888;
             object-fit: cover !important;
-            height: 150px !important;
-            width: 125px !important;
+            height: 125px !important;
+            width: 150px !important;
             border-radius: 10px;
         }
     }
@@ -87,14 +87,14 @@
     @include breakpoint($medium) {
         .paper-box-image{
             justify-content: left;
-            min-width: 125px;
+            min-width: 150px;
             max-width: 20%;
             order: 1;
-            height: 150px;
-            width: 125px;
+            height: 125px;
+            width: 150px;
             img {
-                width: 125px !important;
-                height: 150px !important;
+                width: 150px !important;
+                height: 125px !important;
                 object-fit: cover !important;
             }
         }
