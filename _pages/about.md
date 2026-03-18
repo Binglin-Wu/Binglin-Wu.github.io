@@ -26,7 +26,6 @@ Hi! Welcome to my homepage. I’m Binglin Wu (吴秉霖), a Master's student at 
 - *2025.03*: &nbsp;📑 Our paper was accepted by WWW 25 Compitition Track, with the co-first author Zhipeng Li, Binglin Wu and Yingyi Zhang.
 - *2025.01*: &nbsp;🏅 Our scale@DLUT win the bronze medal at WWW compitition: Multimodal Dialogue System Intent Recognition Challenge, with Zhipeng Li and Yingyi Zhang, and supervised by Prof. Xianneng Li [[Link]](https://tianchi.aliyun.com/competition/entrance/532277)
 
-# 📝 Publications 
 # 📝 Publications
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">WWW 2025</div><img src='images/www.png' alt="CuSMer" width="100%"></div></div>
