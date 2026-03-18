@@ -52,7 +52,7 @@ Zhipeng Li<sup>✦</sup>, **Binglin Wu**<sup>✦</sup>, Yingyi Zhang<sup>✦</su
 
 # 📝 Works on Arxiv
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv.org</div><img src='images/pro-bid.png' alt="Auto-bidding" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv</div><img src='images/pro-bid.png' alt="Auto-bidding" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 <span class="paper-title">[Constraint-Aware Generative Auto-bidding via Pareto-Prioritized Regret Optimization](https://arxiv.org/abs/2602.08261)</span>
@@ -63,7 +63,7 @@ Zhipeng Li<sup>✦</sup>, **Binglin Wu**<sup>✦</sup>, Yingyi Zhang<sup>✦</su
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv.org</div><img src='images/justice.png' alt="JUSTICE" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv</div><img src='images/justice.png' alt="JUSTICE" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 <span class="paper-title">[JUSTICE: Judicial Unified Synthesis Through Intermediate Conclusion Emulation for Automated Judgment Document Generation](https://arxiv.org/abs/2602.08305)</span>
@@ -74,7 +74,7 @@ Zhipeng Li<sup>✦</sup>, **Binglin Wu**<sup>✦</sup>, Yingyi Zhang<sup>✦</su
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv.org</div><img src='images/kahre.png' alt="Hypergraph NER" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv</div><img src='images/kahre.png' alt="Hypergraph NER" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 <span class="paper-title">[Knowledge Augmented Entity and Relation Extraction for Legal Documents with Hypergraph Neural Network](https://arxiv.org/abs/2602.08289)</span>
