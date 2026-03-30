@@ -59,7 +59,7 @@ Zhipeng Li<sup>✦</sup>, **Binglin Wu**<sup>✦</sup>, Yingyi Zhang<sup>✦</su
 
 **Binglin Wu**, Yingyi Zhang, Xianneng Li, Ruyue Deng, Chuan Yue, Weiru Zhang, and Xiaoyi Zeng
 
-*Prepriont (Arxiv), 2026.*
+*Preprint (Arxiv), 2026.*
 </div>
 </div>
 
@@ -70,7 +70,7 @@ Zhipeng Li<sup>✦</sup>, **Binglin Wu**<sup>✦</sup>, Yingyi Zhang<sup>✦</su
 
 **Binglin Wu**, Yingyi Zhang, and Xianneng Li
 
-*Prepriont (Arxiv), 2025.*
+*Preprint (Arxiv), 2025.*
 </div>
 </div>
 
@@ -81,7 +81,7 @@ Zhipeng Li<sup>✦</sup>, **Binglin Wu**<sup>✦</sup>, Yingyi Zhang<sup>✦</su
 
 **Binglin Wu** and Xianneng Li
 
-*Prepriont (Arxiv), 2025.*
+*Preprint (Arxiv), 2025.*
 </div>
 </div>
 
