@@ -100,5 +100,9 @@ Zhipeng Li<sup>✦</sup>, **Binglin Wu**<sup>✦</sup>, Yingyi Zhang<sup>✦</su
 
 
 # 💻 Internships
-- *2025.09 - 2026.02*, [Alibaba International Digital Commerce Group](https://alibaba.com/) <a><img class="svg" src="/images/Alibaba.svg" width="20pt"></a>, Hangzhou.
+- *2025.09 - now*, [Alibaba International Digital Commerce Group](https://alibaba.com/) <a><img class="svg" src="/images/Alibaba.svg" width="20pt"></a>, Hangzhou.
 - *2022.10 - 2023.08*, [Dalian Municipal People's Procuratorate](http://www.dalian.jcy.gov.cn/), Dalian.
+
+# 🤝 Service
+- *2027*, Program Committee, AAAI 2027.
+- *2026*, Program Committee, AAAI 2026.
