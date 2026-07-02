@@ -42,7 +42,7 @@ Zhipeng Li<sup>✦</sup>, **Binglin Wu**<sup>✦</sup>, Yingyi Zhang<sup>✦</su
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CCL 2025</div><img src='images/ccl.png' alt="CCL Hate Speech" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-<span class="paper-title">[Prompt-Driven Large Language Model Merge for Fine-Grained Chinese Hate Speech Detection](https://arxiv.org/abs/2512.09563)</span>
+<span class="paper-title">[Prompt-Driven Large Language Model Merge for Fine-Grained Chinese Hate Speech Detection](https://aclanthology.org/2025.ccl-2.48/)</span>
 
 **Binglin Wu**<sup>✦</sup>, Jiaxiu Zou<sup>✦</sup>, and Xianneng Li
 
