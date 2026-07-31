@@ -52,6 +52,17 @@ Zhipeng Li<sup>✦</sup>, **Binglin Wu**<sup>✦</sup>, Yingyi Zhang<sup>✦</su
 
 # 📝 Works on Arxiv
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv</div><img src='images/swag-bid.png' alt="Auto-bidding" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+<span class="paper-title">[Beyond Single-Episode Optimization: Sliding-Window Aware Generative Auto-Bidding for Long-Term Advertising Effectiveness](https://arxiv.org/abs/2607.25233)</span>
+
+**Binglin Wu**, Chuan Yue, Yingyi Zhang, Xianneng Li, Ruyue Deng, Weiru Zhang, and Xiaoyi Zeng
+
+*Preprint (Arxiv), 2026.*
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv</div><img src='images/pro-bid.png' alt="Auto-bidding" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
