@@ -17,16 +17,28 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hi! Welcome to my homepage. I’m Binglin Wu (吴秉霖), a Master's student at Dalian University of Technology. My research focuses on auto-bidding algorithms for online adverstising and the application of LLM, and I am supervised by Prof. Xianneng Li. I previously worked as a research intern in the advertising department of Alibaba International Digital Commerce Group, focusing primarily on generative auto-bidding algorithms. I have published 2 papers <a href='https://scholar.google.com/citations?user=uOkhiSwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a> at the top international AI conferences such as WWW. I have won awards in several competitions, including the WWW competition and CCL-Eval, etc.
+Hi! Welcome to my homepage. I’m Binglin Wu (吴秉霖), a Master's student at Dalian University of Technology. My research focuses on auto-bidding algorithms for online advertising and the application of LLM, and I am supervised by Prof. Xianneng Li. I previously worked as a research intern in the advertising department of Alibaba International Digital Commerce Group, focusing primarily on generative auto-bidding algorithms. I have published 3 papers <a href='https://scholar.google.com/citations?user=uOkhiSwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a> at the top international AI conferences such as WWW and CIKM. I have won awards in several competitions, including the WWW competition and CCL-Eval, etc.
 
 # 🔥 News
+- *2026.08*: &nbsp;📑 Our paper [PRO-Bid: Pareto-Prioritized Regret Optimization for Constraint-Aware Generative Auto-Bidding](https://arxiv.org/abs/2602.08261) was accepted by CIKM 2026, with the first author Binglin Wu. This work was completed during his internship at Alibaba.
 - *2025.09*：&nbsp;💼 I started as a research intern at Alibaba, focusing on generative auto-bidding algorithms.
-- *2025.07*: &nbsp;📑 Our paper was accepted by CCL 25 Compitition Track, with the co-first author Binglin Wu and Jiaxiu Zou.
+- *2025.07*: &nbsp;📑 Our paper [Prompt-Driven Large Language Model Merge for Fine-Grained Chinese Hate Speech Detection](https://aclanthology.org/2025.ccl-2.48/) was accepted by CCL 25 Competition Track, with the co-first author Binglin Wu and Jiaxiu Zou.
 - *2025.05*: &nbsp;🏅 Our BMI@DLUT win the third prize at CCL-Eval Task 10: Fine-grained Chinese Hate Recognition Evaluation, with Jiaxiu Zou, and supervised by Prof. Xianneng Li [[Link]](https://tianchi.aliyun.com/competition/entrance/532298)
-- *2025.03*: &nbsp;📑 Our paper was accepted by WWW 25 Compitition Track, with the co-first author Zhipeng Li, Binglin Wu and Yingyi Zhang.
-- *2025.01*: &nbsp;🏅 Our scale@DLUT win the bronze medal at WWW compitition: Multimodal Dialogue System Intent Recognition Challenge, with Zhipeng Li and Yingyi Zhang, and supervised by Prof. Xianneng Li [[Link]](https://tianchi.aliyun.com/competition/entrance/532277)
+- *2025.03*: &nbsp;📑 Our paper [CuSMer: Multimodal Intent Recognition in Customer Service via Data Augment and LLM Merge](https://dl.acm.org/doi/abs/10.1145/3701716.3718373) was accepted by WWW 25 Competition Track, with the co-first author Zhipeng Li, Binglin Wu and Yingyi Zhang.
+- *2025.01*: &nbsp;🏅 Our scale@DLUT win the bronze medal at WWW competition: Multimodal Dialogue System Intent Recognition Challenge, with Zhipeng Li and Yingyi Zhang, and supervised by Prof. Xianneng Li [[Link]](https://tianchi.aliyun.com/competition/entrance/532277)
 
 # 📝 Publications
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CIKM 2026</div><img src='images/pro-bid.png' alt="Auto-bidding" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+<span class="paper-title">[PRO-Bid: Pareto-Prioritized Regret Optimization for Constraint-Aware Generative Auto-Bidding](https://arxiv.org/abs/2602.08261)</span>
+
+**Binglin Wu**, Yingyi Zhang, Xianneng Li, Ruyue Deng, Chuan Yue, Weiru Zhang, and Xiaoyi Zeng
+
+*The 35th ACM International Conference on Information and Knowledge Management **(CIKM'26)**, CCF-B*
+</div>
+</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">WWW 2025</div><img src='images/www.png' alt="CuSMer" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -63,17 +75,6 @@ Zhipeng Li<sup>✦</sup>, **Binglin Wu**<sup>✦</sup>, Yingyi Zhang<sup>✦</su
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv</div><img src='images/pro-bid.png' alt="Auto-bidding" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-<span class="paper-title">[Constraint-Aware Generative Auto-bidding via Pareto-Prioritized Regret Optimization](https://arxiv.org/abs/2602.08261)</span>
-
-**Binglin Wu**, Yingyi Zhang, Xianneng Li, Ruyue Deng, Chuan Yue, Weiru Zhang, and Xiaoyi Zeng
-
-*Preprint (Arxiv), 2026.*
-</div>
-</div>
-
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv</div><img src='images/justice.png' alt="JUSTICE" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -99,7 +100,7 @@ Zhipeng Li<sup>✦</sup>, **Binglin Wu**<sup>✦</sup>, Yingyi Zhang<sup>✦</su
 
 # 🎖 Honors and Awards
 - *2025.05* Third prize at CCL-Eval Task 10: Fine-grained Chinese Hate Recognition Evaluation
-- *2025.01* Bronze medal at WWW compitition: Multimodal Dialogue System Intent Recognition Challenge
+- *2025.01* Bronze medal at WWW competition: Multimodal Dialogue System Intent Recognition Challenge
 - *2023.08* Third Prize in the National Procuratorial Organs Big Data Legal Supervision Model Competition
 - *2022.09* Dalian University of Technology's Outstanding Students
 
