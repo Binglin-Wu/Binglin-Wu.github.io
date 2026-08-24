@@ -20,7 +20,7 @@ redirect_from:
 Hi! Welcome to my homepage. I’m Binglin Wu (吴秉霖), a Master's student at Dalian University of Technology. My research focuses on auto-bidding algorithms for online advertising and the application of LLM, and I am supervised by Prof. Xianneng Li. I previously worked as a research intern in the advertising department of Alibaba International Digital Commerce Group, focusing primarily on generative auto-bidding algorithms. I have published 3 papers <a href='https://scholar.google.com/citations?user=uOkhiSwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a> at the top international AI conferences such as WWW and CIKM. I have won awards in several competitions, including the WWW competition and CCL-Eval, etc.
 
 # 🔥 News
-- *2026.08*: &nbsp;📑 Our paper [PRO-Bid: Pareto-Prioritized Regret Optimization for Constraint-Aware Generative Auto-Bidding](https://arxiv.org/abs/2602.08261) was accepted by CIKM 2026 Full Research Track, with the first author Binglin Wu. This work was completed during his internship at Alibaba.
+- *2026.08*: &nbsp;📑 Our paper [PRO-Bid: Pareto-Prioritized Regret Optimization for Constraint-Aware Generative Auto-Bidding](https://arxiv.org/abs/2602.08261) was accepted by CIKM 2026 Full Research Track (Oral), with the first author Binglin Wu. This work was completed during his internship at Alibaba.
 - *2025.09*：&nbsp;💼 I started as a research intern at Alibaba, focusing on generative auto-bidding algorithms.
 - *2025.07*: &nbsp;📑 Our paper [Prompt-Driven Large Language Model Merge for Fine-Grained Chinese Hate Speech Detection](https://aclanthology.org/2025.ccl-2.48/) was accepted by CCL 25 Competition Track, with the co-first author Binglin Wu and Jiaxiu Zou.
 - *2025.05*: &nbsp;🏅 Our BMI@DLUT win the third prize at CCL-Eval Task 10: Fine-grained Chinese Hate Recognition Evaluation, with Jiaxiu Zou, and supervised by Prof. Xianneng Li [[Link]](https://tianchi.aliyun.com/competition/entrance/532298)
@@ -36,7 +36,7 @@ Hi! Welcome to my homepage. I’m Binglin Wu (吴秉霖), a Master's student at 
 
 **Binglin Wu**, Yingyi Zhang, Xianneng Li, Ruyue Deng, Chuan Yue, Weiru Zhang, and Xiaoyi Zeng
 
-*The 35th ACM International Conference on Information and Knowledge Management **(CIKM'26)**, CCF-B*
+*The 35th ACM International Conference on Information and Knowledge Management **(CIKM'26)**, CCF-B, **Oral***
 </div>
 </div>
 
