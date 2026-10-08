@@ -13,11 +13,12 @@ redirect_from:
 {% else %}
 {% assign gsDataBaseUrl = "https://raw.githubusercontent.com/" | append: site.repository | append: "/" %}
 {% endif %}
-{% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
+{% assign citationVersion = site.time | date: "%s" %}
+{% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json?v=" | append: citationVersion %}
 
 <span class='anchor' id='about-me'></span>
 
-Hi! Welcome to my homepage. I’m Binglin Wu (吴秉霖), a Master's student at Dalian University of Technology. My research focuses on auto-bidding algorithms for online advertising and the application of LLM, and I am supervised by Prof. Xianneng Li. I previously worked as a research intern in the advertising department of Alibaba International Digital Commerce Group, focusing primarily on generative auto-bidding algorithms. I have published 3 papers <a href='https://scholar.google.com/citations?user=uOkhiSwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a> at the top international AI conferences such as WWW and CIKM. I have won awards in several competitions, including the WWW competition and CCL-Eval, etc.
+Hi! Welcome to my homepage. I’m Binglin Wu (吴秉霖), a Master's student at Dalian University of Technology. My research focuses on auto-bidding algorithms for online advertising and the application of LLM, and I am supervised by Prof. Xianneng Li. I previously worked as a research intern in the advertising department of Alibaba International Digital Commerce Group, focusing primarily on generative auto-bidding algorithms. I have published 3 papers <a href='https://scholar.google.com/citations?user=uOkhiSwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations&cacheSeconds=300"></a> at the top international AI conferences such as WWW and CIKM. I have won awards in several competitions, including the WWW competition and CCL-Eval, etc.
 
 # 🔥 News
 - *2026.08*: &nbsp;📑 Our paper [PRO-Bid: Pareto-Prioritized Regret Optimization for Constraint-Aware Generative Auto-Bidding](https://arxiv.org/abs/2602.08261) was accepted by CIKM 2026 Full Research Track (Oral), with the first author Binglin Wu. This work was completed during his internship at Alibaba.
